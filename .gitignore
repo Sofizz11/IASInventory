@@ -10,3 +10,7 @@ obj/
 *.log
 .DS_Store
 Thumbs.db
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
